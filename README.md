@@ -1,7 +1,9 @@
 ### Hi, I am Mateusz 👋
 I am student of CS in https://pb.edu.pl/
-I also stered learning Ruby on Rails
 
+- 🌱 I’m currently learning RubyOnRails
+
+Last update: 20.07.2021
 
 <!--
 **mateuszbialowas/mateuszbialowas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
