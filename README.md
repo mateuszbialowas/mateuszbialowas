@@ -21,7 +21,8 @@ I am student of CS in [Bialystok University of Technology](https://pb.edu.pl/en/
 
 ### Currently learning
 <div style: "display: flex;">
-TODO
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-484f58?style=for-the-badge&logo=Ruby&logoColor=white&labelColor=CC342D"/>
+  <img alt="Rails" src="https://img.shields.io/badge/Rails-484f58?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white&labelColor=CC0000"/>
 </div>
 
 
