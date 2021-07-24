@@ -27,7 +27,7 @@ I am student of CS in [Bialystok University of Technology](https://pb.edu.pl/en/
 
 
 
-Last update: 20.07.2021
+Last update: 24.07.2021
 
 <!--
 **mateuszbialowas/mateuszbialowas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
