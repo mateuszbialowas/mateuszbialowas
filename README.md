@@ -25,9 +25,12 @@ I am student of CS in [Bialystok University of Technology](https://pb.edu.pl/en/
   <img alt="Rails" src="https://img.shields.io/badge/Rails-484f58?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white&labelColor=CC0000"/>
 </div>
 
+---
 
+### Currently creating
+https://github.com/mateuszbialowas/SaveMoney
 
-Last update: 24.07.2021
+Last update: 25.07.2021
 
 <!--
 **mateuszbialowas/mateuszbialowas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
