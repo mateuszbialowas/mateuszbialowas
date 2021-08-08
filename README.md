@@ -23,6 +23,7 @@ I am student of Computer Science in [Bialystok University of Technology](https:/
 <div style: "display: flex;">
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-484f58?style=for-the-badge&logo=Ruby&logoColor=white&labelColor=CC342D"/>
   <img alt="Rails" src="https://img.shields.io/badge/Rails-484f58?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white&labelColor=CC0000"/>
+  <img alt="React" src="https://img.shields.io/badge/React-484f58?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB"/>
 </div>
 
 ---
