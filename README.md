@@ -1,5 +1,5 @@
 ### Hi, I am Mateusz 👋 
-I am student of CS in [Bialystok University of Technology](https://pb.edu.pl/en/)
+I am student of Computer Science in [Bialystok University of Technology](https://pb.edu.pl/en/)
 
 
 - 🌱 I’m currently learning RubyOnRails
