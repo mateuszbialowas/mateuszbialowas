@@ -3,7 +3,7 @@ I am student of Computer Science in [Bialystok University of Technology](https:/
 
 
 - 🌱 I’m currently learning RubyOnRails
-- 📫 How to reach me: [Twitter](https://twitter.com/coding_mat) | [Linkedin](https://www.linkedin.com/in/mateuszbia%C5%82ow%C4%85s/)
+- 📫 How to reach me: [Twitter](https://twitter.com/coding_mat) | [Linkedin](https://www.linkedin.com/in/mateuszbia%C5%82ow%C4%85s/) | [Instagram](https://www.instagram.com/coding_mat/?hl=en)
 
 ### 🛠 Tools and technologies 
 ---
