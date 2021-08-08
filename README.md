@@ -30,7 +30,7 @@ I am student of Computer Science in [Bialystok University of Technology](https:/
 ### Currently creating
 https://github.com/mateuszbialowas/SaveMoney
 
-Last update: 25.07.2021
+Last update: 08.08.2021
 
 <!--
 **mateuszbialowas/mateuszbialowas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
