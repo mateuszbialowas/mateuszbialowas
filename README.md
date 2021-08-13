@@ -1,5 +1,5 @@
 ### Hi, I am Mateusz 👋 
-I am student of Computer Science in [Bialystok University of Technology](https://pb.edu.pl/en/)
+I am a student of Computer Science at the [Bialystok University of Technology](https://pb.edu.pl/en/)
 
 
 - 🌱 I’m currently learning RubyOnRails
@@ -31,7 +31,7 @@ I am student of Computer Science in [Bialystok University of Technology](https:/
 ### Currently creating
 https://github.com/mateuszbialowas/SaveMoney
 
-Last update: 08.08.2021
+Last update: 13.08.2021
 
 <!--
 **mateuszbialowas/mateuszbialowas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
