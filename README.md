@@ -35,7 +35,7 @@ Last update: 01.11.2021
 
 ---
 
-### 👨‍💻 Portfolio Html/Css/Js 
+### 👨‍💻 Portfolio 
 - Blogr landing page [🚀 Live website](https://blogr-landing-page-tawny-iota.vercel.app/) | [📄 Repository](https://github.com/mateuszbialowas/Blogr_landing_page)
 - Typemaster pre-launch landing page [🚀 Live website](https://typemaster-pre-launch-landing-page-one.vercel.app/) | [📄 Repository](https://github.com/mateuszbialowas/Typemaster_pre-launch_landing_page)
 
