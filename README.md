@@ -31,7 +31,7 @@ I am a student of Computer Science at the [Bialystok University of Technology](h
 ### Currently creating
 https://github.com/mateuszbialowas/SaveMoney
 
-Last update: 01.11.2021
+Last update: 23.01.2022
 
 ---
 
@@ -39,7 +39,9 @@ Last update: 01.11.2021
 - Blogr landing page [🚀 Live website](https://blogr-landing-page-tawny-iota.vercel.app/) | [📄 Repository](https://github.com/mateuszbialowas/Blogr_landing_page)
 - Typemaster pre-launch landing page [🚀 Live website](https://typemaster-pre-launch-landing-page-one.vercel.app/) | [📄 Repository](https://github.com/mateuszbialowas/Typemaster_pre-launch_landing_page)
 
+---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mateuszbialowas&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
 **mateuszbialowas/mateuszbialowas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
