@@ -42,6 +42,9 @@ Last update: 23.01.2022
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mateuszbialowas&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuszbialowas&theme=dark&date_format=j%20M%5B%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mateuszbialowas/mateuszbialowas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
