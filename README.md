@@ -29,7 +29,7 @@ I am a student of Computer Science at the [Bialystok University of Technology](h
 ---
 
 ### Currently creating
-https://github.com/mateuszbialowas/SaveMoney
+not public yet
 
 Last update: 19.02.2022
 
