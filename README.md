@@ -3,7 +3,7 @@ I am a student of Computer Science at the [Bialystok University of Technology](h
 
 
 - 🌱 I’m currently learning RubyOnRails
-- 📫 How to reach me: [Twitter](https://twitter.com/coding_mat) | [Linkedin](https://www.linkedin.com/in/mateuszbia%C5%82ow%C4%85s/) | [Instagram](https://www.instagram.com/coding_mat)
+- 📫 How to reach me: [Twitter](https://twitter.com/mateuszbialowas) | [Linkedin](https://www.linkedin.com/in/mateuszbialowas/) | [Instagram](https://www.instagram.com/mateusz_rb)
 
 ### 🛠 Tools and technologies 
 ---
@@ -31,7 +31,7 @@ I am a student of Computer Science at the [Bialystok University of Technology](h
 ### Currently creating
 https://github.com/mateuszbialowas/SaveMoney
 
-Last update: 23.01.2022
+Last update: 19.02.2022
 
 ---
 
