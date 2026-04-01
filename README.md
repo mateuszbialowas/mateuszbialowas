@@ -22,12 +22,29 @@ When I'm not shipping production Rails apps, I build fun side projects with **Re
 ### FamilyTree
 > A mobile genealogy app with organic, animated tree visualization
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mateuszbialowas/FamilyTree/main/docs/public/screenshots/hero.png" width="700" alt="FamilyTree hero" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mateuszbialowas/FamilyTree/main/docs/public/screenshots/tree.png" width="230" alt="Tree view" />
+  <img src="https://raw.githubusercontent.com/mateuszbialowas/FamilyTree/main/docs/public/screenshots/list.png" width="230" alt="List view" />
+  <img src="https://raw.githubusercontent.com/mateuszbialowas/FamilyTree/main/docs/public/screenshots/detail.png" width="230" alt="Detail view" />
+</p>
+
 - **Tech:** React Native, Expo, TypeScript, Skia
 - **Highlights:** Procedurally generated tree visuals with animated animals, smart relationship engine, fully offline, JSON import/export
 - [Repository](https://github.com/mateuszbialowas/FamilyTree) | [Documentation](https://mateuszbialowas.github.io/FamilyTree/)
 
 ### grafik-sterylizacja
 > Shift scheduling app for sterilization technicians
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mateuszbialowas/grafik-sterylizacja/main/screenshots/schedule-overview.png" width="700" alt="Schedule overview" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mateuszbialowas/grafik-sterylizacja/main/screenshots/shift-cycling.gif" width="340" alt="Shift cycling" />
+  <img src="https://raw.githubusercontent.com/mateuszbialowas/grafik-sterylizacja/main/screenshots/context-menu.gif" width="340" alt="Context menu" />
+</p>
 
 - **Tech:** React, Vite, Tailwind CSS, Playwright
 - **Highlights:** Click-to-cycle shift assignment, overtime tracking, print-ready layout, single-file production build (~280 KB)
